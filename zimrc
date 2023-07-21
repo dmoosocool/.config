@@ -1,0 +1,25 @@
+# Replace this file to ~/.zimrc
+
+# defaults
+zmodule environment
+zmodule git
+zmodule input
+zmodule termtitle
+zmodule utility
+zmodule duration-info
+zmodule git-info
+zmodule asciiship
+zmodule completion
+zmodule zsh-users/zsh-completions --fpath src
+zmodule zsh-users/zsh-syntax-highlighting
+zmodule zsh-users/zsh-history-substring-search
+zmodule zsh-users/zsh-autosuggestions
+
+#
+zmodule prompt-pwd
+zmodule magicmace
+zmodule pabloariasal/zfm
+zmodule supercrabtree/k
+zmodule agkozak/zsh-z
+zmodule Aloxaf/fzf-tab
+zmodule romkatv/powerlevel10k
